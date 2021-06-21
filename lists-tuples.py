@@ -29,10 +29,10 @@ l1.sort() # sorts the list
 print(l1)
 l1.reverse() # reverses
 print(l1)
-l1.append(l2)
-print(l1) # adds at the end of list
-l3.extend(l2)
-print(l3)
+l1.append(l2)# adds at the end of list, when list in arguement (List is added within the list)
+print(l1) # [569, 96, 44, 20, 9, 8, [9, 8, 7, 6]]
+l3.extend(l2)# adds at the end of list, when list in arguement (elements of list are added within the list)
+print(l3) # [44, 55, 66, 77, 9, 8, 7, 6]
 
 print(l1)
 l1.insert(2,12) # inserts 12 at 2nd index

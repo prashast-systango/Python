@@ -1,5 +1,7 @@
 name= "prashast"
 print(name)
+
+# Functions
 length= len(name) # 8
 print(name.count("s")) # 2
 print(name.capitalize()) # Prashast
