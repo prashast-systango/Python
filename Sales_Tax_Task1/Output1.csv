@@ -1,0 +1,8 @@
+Product-Name,Product-CostPrice,Product-SalesTax,Product-SalesTaxAmount,Product-FinalPrice,Country
+Notebook,100,15,115.0,India
+Journal,150,30,195.0,America
+Craft paper packet,20,25,25.0,Bhutan
+Cardboard,50,20,60.0,Nepal
+Butter paper packet,60,20,72.0,Dubai
+Papersheets,10,80,18.0,China
+Envelope packet,70,25,87.5,Australia
