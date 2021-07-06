@@ -1,0 +1,7 @@
+{% extends 'core/base.html' %}
+<!-- {% load static %} -->
+
+{% block title %} Flower {% endblock title %}
+{% block msg %}{{ color }} {{ flower }}{% endblock msg %}
+
+{% block content %}<img src="{% static 'images/blue.jpeg' %}" alt="blue-rose"> {% endblock content %}
