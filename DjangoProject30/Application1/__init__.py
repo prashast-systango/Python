@@ -1,0 +1,1 @@
+default_app_config = 'Application1.apps.Application1Config'
